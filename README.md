@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eddyhunt75
+- 👋 Hi, I’m AdityaPrakash @eddyhunt75
 - 👀 I’m interested in CyberSecurity, Neural Networking, DSA
 - 🌱 I’m currently learning Software Testing, Java, SQL, API, Selenium
 - 💞️ I’m looking for jobs in development field which help me to work on my intrested ares.
